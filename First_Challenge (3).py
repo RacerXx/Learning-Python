@@ -12,4 +12,4 @@ elif (age > 32): #Too Old to attend
 
 else:
     (age < 16) #They are too young to attend
-    print("Im sorry {} unfortunately you cannot attend the vacation as you are too young!".format(name))
+    print("Im sorry {} unfortunately you cannot attend the vacation as your nuts haven't dropped!".format(name))
